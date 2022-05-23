@@ -2,7 +2,7 @@
 - 👀 I’m interested in continuously studying 
 programming so I can become a developer and
 begin to work as one
-- 🌱 I’m currently learning Javascript and C#,
+- 🌱 I’m currently learning Javascript and React,
 and already have a good understanding about
 HTML and CSS 
 - 💞️ I’m looking to collaborate on anything 
