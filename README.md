@@ -7,7 +7,7 @@ and already have a good understanding about
 HTML and CSS 
 - 💞️ I’m looking to collaborate on anything 
 that people think I might help
-- 📫 You can reach through this site or by
+- 📫 You can reach me through this site or by
 sending an email to feliperedfield@gmail.com 
 
 <!---
