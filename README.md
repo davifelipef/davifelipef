@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @davifelipef
 - 👀 I’m interested in continuously studying 
-programming so I can become a developer and
-begin to work as one
-- 🌱 I’m currently learning Javascript, React and Python,
-and already have a good understanding about
-HTML and CSS 
+programming so I can improve as a developer
+- 🌱 I’m currently building most applications 
+with Python, a language I fell in love with, 
+but I also work with Javascript, HTML and CSS, 
+besides studying React and, recently, React Native
 - 💞️ I’m looking to collaborate on anything 
 that people think I might help
 - 📫 You can reach me through this site or by
