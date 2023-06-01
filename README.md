@@ -1,7 +1,7 @@
 <div class='container'>
 <img style="width: 44%;" class="img" src="https://github-readme-stats.vercel.app/api?username=davifelipef&show_icons=true&theme=transparent" />
 &nbsp;
-<img style="width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifelipef&theme=transparent&langs_count=8&layout=compact" /></div>
+<img style="width: 39%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifelipef&theme=transparent&langs_count=8&layout=compact" /></div>
 </div>
 
 
