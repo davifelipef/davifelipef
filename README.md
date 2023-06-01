@@ -1,4 +1,4 @@
-[![Davi Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=davifelipef)](https://github.com/davifelipef/github-readme-stats&show_icons=true)
+[![Davi Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=davifelipef&show_icons=true)](https://github.com/davifelipef/github-readme-stats)
 
 ![Davi Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=davifelipef&show_icons=true)
 
