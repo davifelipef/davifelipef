@@ -1,3 +1,5 @@
+[![Davi Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=davifelipef)](https://github.com/davifelipef/github-readme-stats)
+
 - 👋 Hi, I’m @davifelipef
 - 👀 I’m interested in continuously studying 
 programming so I can improve as a developer
