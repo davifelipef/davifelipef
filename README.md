@@ -1,5 +1,12 @@
 [![Davi Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=davifelipef&show_icons=true&theme=transparent)](https://github.com/davifelipef/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davifelipef)](https://github.com/davifelipef/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davifelipef&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davifelipef&repo=convoychat" />
+</a>
+
 - 👋 Hi, I’m @davifelipef
 - 👀 I’m interested in continuously studying 
 programming so I can improve as a developer
