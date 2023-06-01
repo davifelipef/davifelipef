@@ -16,7 +16,7 @@
 I’m currently building most of my applications with Python, but I also work with Javascript, HTML5 and CSS, besides studying React and, recently, Jetpack Compose and Kotlin.
   
 ## Contact 
-<a href="https://github.com/davifelipef">
+<a href="https://www.linkedin.com/in/davi-felipe-fl-rodrigues/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
