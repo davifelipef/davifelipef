@@ -8,6 +8,7 @@
 </table>
 
 <h1>About me</h1>
+# About me
 
 I’m currently building most of my applications with Python, but I also work with Javascript, HTML5 and CSS, besides studying React and, recently, Jetpack Compose and Kotlin
 
