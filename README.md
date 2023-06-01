@@ -1,4 +1,4 @@
-<table frame="void">
+<table border="0">
     <tbody>
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=davifelipef&show_icons=true&theme=transparent" height="300"/></td>
