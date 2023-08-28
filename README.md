@@ -1,19 +1,8 @@
-
-## 📈 GitHub stats
-<div align="center">
-  <a href="https://github.com/davifelipef">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=davifelipef&show_icons=true&theme=transparent"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifelipef&layout=compact&langs_count=8&theme=transparent"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davifelipef"/>
-</div>
-  
-## Skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
 ## About me
-I’m currently building most of my applications with Python, but I also work with Javascript, HTML5 and CSS, besides studying React and, recently, Jetpack Compose and Kotlin.
+I’m currently building most of my applications with Python and Kivy, but I also work with Javascript, HTML5 and CSS3, besides studying React and, recently, Jetpack Compose and Kotlin.
+
+## Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
 ## Contact 
 <a href="https://www.linkedin.com/in/davi-felipe-fl-rodrigues/">
